@@ -1,0 +1,17 @@
+# Core AWS SDK
+boto3
+botocore
+
+# Streamlit for UI
+streamlit
+
+# LangChain ecosystem
+langchain
+langchain-aws
+langchain-core
+langchain-text-splitters
+langchain-community
+
+# Vector store
+faiss-cpu
+
