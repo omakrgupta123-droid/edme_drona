@@ -1,7 +1,0 @@
-boto3
-streamlit
-langchain-aws
-langchain-core
-langchain-text-splitters
-langchain-community
-faiss-cpu
